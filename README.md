@@ -11,3 +11,4 @@ This contains everything you need to run your app locally.
 2 Run the app:
    `npm run dev`
 "# wedding-planner2" 
+"# wedding-planner2" 
